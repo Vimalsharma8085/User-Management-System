@@ -1,0 +1,26 @@
+# Getting Started
+
+# UserManagement
+### Framework and Language
+* Springboot
+* java 
+### Data Flow
+* In this project.We create four layers.
+
+* Controller-In controller layer we handle CRUD operation by http request.
+* Repository-In this layer data is stored.for storing data i have used arraylist.
+* Service-The service layer handles all business logics.
+* DataBase Design- Arraylist. 
+
+### Data structure used in my project.
+* In my project ArrayList and these related methods are used.
+
+### Project summary.
+* My project used below properties-
+* Username
+* Name
+* UserId
+* Address
+* PhoneNumber
+
+
